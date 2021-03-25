@@ -1,7 +1,7 @@
 # Getting started with Docker
 Following Docker [documentation example](https://docs.docker.com/get-started/02_our_app/)
 
-### Clonar o repo dentro da pasta `/app`
+### Clone o repositório dentro da pasta `/app`
 > git clone https://github.com/VictorMarreiros/getting-started-docker.git app
 
 

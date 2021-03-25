@@ -1,5 +1,6 @@
 # Getting started with Docker
-Following Docker [documentation example](https://docs.docker.com/get-started/02_our_app/)
+- Following Docker [documentation example](https://docs.docker.com/get-started/02_our_app/)
+- You've to install [docker platform](https://docs.docker.com/get-docker/)
 
 ### Clone o repositório dentro da pasta `/app`
 > git clone https://github.com/VictorMarreiros/getting-started-docker.git app
